@@ -1,0 +1,645 @@
+[Wed May 15 03:11:56 2013] [Juego]		Bienvenidos al Chancho Va
+[Wed May 15 03:11:56 2013] [Juego]		Cantidad de jugadores: 10
+[Wed May 15 03:11:56 2013] [Juego]		Cantidad de cartas a repartir: 40
+[Wed May 15 03:11:56 2013] [Juego]		Doy orden de inicio: Chancho Va
+[Wed May 15 03:11:56 2013] [Juego]		Empieza la ronda 1
+[Wed May 15 03:11:56 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:56 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:56 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:56 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:56 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 6 3 10 5 7 4 8 1 9
+[Wed May 15 03:11:56 2013] [Juego]		Empieza la ronda 2
+[Wed May 15 03:11:56 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:56 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:56 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:56 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:56 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 5 9 6 10 4 8 7 1 3
+[Wed May 15 03:11:56 2013] [Juego]		Empieza la ronda 3
+[Wed May 15 03:11:56 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:56 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:56 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:56 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:56 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 8 10 3 9 1 4 5 7 6
+[Wed May 15 03:11:56 2013] [Juego]		Empieza la ronda 4
+[Wed May 15 03:11:56 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:56 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:56 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:56 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:56 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 3 6 9 4 1 5 10 7 8
+[Wed May 15 03:11:56 2013] [Juego]		Empieza la ronda 5
+[Wed May 15 03:11:56 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:56 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:56 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:56 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:56 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 9 7 1 4 5 6 8 10 3
+[Wed May 15 03:11:56 2013] [Juego]		Empieza la ronda 6
+[Wed May 15 03:11:56 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:56 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:56 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:56 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:56 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 10 3 4 8 6 7 5 1 9
+[Wed May 15 03:11:56 2013] [Juego]		Empieza la ronda 7
+[Wed May 15 03:11:56 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:56 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:57 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:57 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:57 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:57 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 1 4 7 6 8 10 9 3 5
+[Wed May 15 03:11:57 2013] [Juego]		Empieza la ronda 8
+[Wed May 15 03:11:57 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:57 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:57 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:57 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:57 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 6 1 10 9 3 8 5 7 4
+[Wed May 15 03:11:57 2013] [Juego]		Empieza la ronda 9
+[Wed May 15 03:11:57 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:57 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:57 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:57 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:57 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 3 4 5 6 7 10 8 9 1
+[Wed May 15 03:11:57 2013] [Juego]		Empieza la ronda 10
+[Wed May 15 03:11:57 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:57 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:57 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:57 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:57 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 6 7 9 1 10 4 5 3 8
+[Wed May 15 03:11:57 2013] [Juego]		Empieza la ronda 11
+[Wed May 15 03:11:57 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:57 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:57 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:57 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:57 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 6 8 9 1 4 7 3 10 5
+[Wed May 15 03:11:57 2013] [Juego]		Empieza la ronda 12
+[Wed May 15 03:11:57 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:57 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:57 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:57 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:57 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 8 1 6 7 4 10 5 3 9
+[Wed May 15 03:11:57 2013] [Juego]		Empieza la ronda 13
+[Wed May 15 03:11:57 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:57 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:57 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:57 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:57 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 8 4 6 9 7 10 3 5 1
+[Wed May 15 03:11:57 2013] [Juego]		Empieza la ronda 14
+[Wed May 15 03:11:57 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:57 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:57 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:57 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:57 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 4 1 7 10 3 8 5 6 9
+[Wed May 15 03:11:57 2013] [Juego]		Empieza la ronda 15
+[Wed May 15 03:11:57 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:57 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:57 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:57 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:57 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 4 7 8 9 10 6 3 1 5
+[Wed May 15 03:11:57 2013] [Juego]		Empieza la ronda 16
+[Wed May 15 03:11:57 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:57 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:57 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:57 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:57 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 5 9 7 4 3 1 8 6 10
+[Wed May 15 03:11:57 2013] [Juego]		Empieza la ronda 17
+[Wed May 15 03:11:57 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:57 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:57 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:57 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:57 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 7 10 8 6 5 4 3 9 1
+[Wed May 15 03:11:57 2013] [Juego]		Empieza la ronda 18
+[Wed May 15 03:11:57 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:57 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:57 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:57 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:57 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 6 10 5 4 3 7 9 1 8
+[Wed May 15 03:11:57 2013] [Juego]		Empieza la ronda 19
+[Wed May 15 03:11:57 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:57 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:57 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:57 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:57 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 3 5 4 10 6 8 9 1 7
+[Wed May 15 03:11:57 2013] [Juego]		Empieza la ronda 20
+[Wed May 15 03:11:57 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:57 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:57 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:57 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:57 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 10 9 6 7 4 8 5 3 1
+[Wed May 15 03:11:57 2013] [Juego]		Empieza la ronda 21
+[Wed May 15 03:11:57 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:57 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:57 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:57 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:57 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 1 6 4 9 10 8 3 7 5
+[Wed May 15 03:11:57 2013] [Juego]		Empieza la ronda 22
+[Wed May 15 03:11:57 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:57 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:57 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:58 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:58 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:58 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 7 4 5 1 3 8 6 9 10
+[Wed May 15 03:11:58 2013] [Juego]		Empieza la ronda 23
+[Wed May 15 03:11:58 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:58 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:58 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:58 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:58 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 7 5 10 1 8 9 3 4 6
+[Wed May 15 03:11:58 2013] [Juego]		Empieza la ronda 24
+[Wed May 15 03:11:58 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:58 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:58 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:58 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:58 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 8 9 4 1 6 5 10 3 7
+[Wed May 15 03:11:58 2013] [Juego]		Empieza la ronda 25
+[Wed May 15 03:11:58 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:58 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:58 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:58 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:58 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 8 1 6 10 5 3 4 9 7
+[Wed May 15 03:11:58 2013] [Juego]		Empieza la ronda 26
+[Wed May 15 03:11:58 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:58 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:58 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:58 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:58 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 3 6 9 1 5 8 10 7 4
+[Wed May 15 03:11:58 2013] [Juego]		Empieza la ronda 27
+[Wed May 15 03:11:58 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:58 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:58 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:58 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:58 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 3 1 4 10 8 7 9 6 5
+[Wed May 15 03:11:58 2013] [Juego]		Empieza la ronda 28
+[Wed May 15 03:11:58 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:58 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:58 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:58 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:58 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 4 8 10 3 9 1 6 5 7
+[Wed May 15 03:11:58 2013] [Juego]		Empieza la ronda 29
+[Wed May 15 03:11:58 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:58 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:58 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:58 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:58 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 5 3 6 1 10 7 9 4 8
+[Wed May 15 03:11:58 2013] [Juego]		Empieza la ronda 30
+[Wed May 15 03:11:58 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:58 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:58 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:58 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:58 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 8 6 4 10 3 7 1 5 9
+[Wed May 15 03:11:58 2013] [Juego]		Empieza la ronda 31
+[Wed May 15 03:11:58 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:58 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:58 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:58 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:58 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 4 6 5 9 1 8 3 10 7
+[Wed May 15 03:11:58 2013] [Juego]		Empieza la ronda 32
+[Wed May 15 03:11:58 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:58 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:58 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:58 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:58 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 3 4 7 6 1 8 5 9 10
+[Wed May 15 03:11:58 2013] [Juego]		Empieza la ronda 33
+[Wed May 15 03:11:58 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:58 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:58 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:58 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:58 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 9 4 5 3 7 1 8 10 6
+[Wed May 15 03:11:58 2013] [Juego]		Empieza la ronda 34
+[Wed May 15 03:11:58 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:58 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:58 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:58 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:58 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 1 5 8 9 7 3 6 4 10
+[Wed May 15 03:11:58 2013] [Juego]		Empieza la ronda 35
+[Wed May 15 03:11:58 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:58 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:58 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:58 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:58 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 4 7 1 10 9 6 5 8 3
+[Wed May 15 03:11:58 2013] [Juego]		Empieza la ronda 36
+[Wed May 15 03:11:58 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:58 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:58 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:58 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:58 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 5 1 9 6 10 7 4 3 8
+[Wed May 15 03:11:58 2013] [Juego]		Empieza la ronda 37
+[Wed May 15 03:11:58 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:58 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:58 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:58 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:58 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:58 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 8 7 4 9 6 5 1 3 10
+[Wed May 15 03:11:58 2013] [Juego]		Empieza la ronda 38
+[Wed May 15 03:11:59 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:59 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:59 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:59 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:59 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 3 5 4 10 7 6 1 9 8
+[Wed May 15 03:11:59 2013] [Juego]		Empieza la ronda 39
+[Wed May 15 03:11:59 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:59 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:59 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:59 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:59 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 4 3 6 7 8 10 5 1 9
+[Wed May 15 03:11:59 2013] [Juego]		Empieza la ronda 40
+[Wed May 15 03:11:59 2013] [Juego]		Mezclo las cartas para repartir
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 4|7|10|2| al jugador [1]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 4|6|6|4| al jugador [2]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 9|1|6|9| al jugador [3]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 9|10|6|1| al jugador [4]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 8|2|5|1| al jugador [5]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 8|10|3|10| al jugador [6]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 3|8|5|9| al jugador [7]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 5|5|2|1| al jugador [8]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 3|7|7|3| al jugador [9]
+[Wed May 15 03:11:59 2013] [Juego]		Reparto las cartas 8|4|7|2| al jugador [10]
+[Wed May 15 03:11:59 2013] [Juego]		Esperando hasta que algun jugador tengo chancho
+[Wed May 15 03:11:59 2013] [Juego]		El jugador[2] hizo chancho
+[Wed May 15 03:11:59 2013] [Juego]		Envio señal de chancho a los jugadores
+[Wed May 15 03:11:59 2013] [Juego]		Las manos fueron apoyadas en el siguiente orden: 2 6 5 3 10 7 9 1 4 8
+[Wed May 15 03:11:59 2013] [Juego]		Fin del juego

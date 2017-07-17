@@ -1,0 +1,7 @@
+Para compilar:
+ir al directorio del tp/trunk/ChanchoVa
+escribir por linea de comando . compilar.sh
+esto va a compilar todo el tp
+
+para correrlo, en el mismo directorio tp/trunk/ChanchoVa
+escribir por linea de comando: ./Simulador  <cantJugadores>

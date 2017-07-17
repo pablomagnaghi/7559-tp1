@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tpconcurrentes-chanchova/!svn/ver/41/trunk/ChanchoVa/src/Simulador
+END
+OptionsParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tpconcurrentes-chanchova/!svn/ver/40/trunk/ChanchoVa/src/Simulador/OptionsParser.cpp
+END
+Juego.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tpconcurrentes-chanchova/!svn/ver/42/trunk/ChanchoVa/src/Simulador/Juego.cpp
+END
+ChanchoVa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tpconcurrentes-chanchova/!svn/ver/41/trunk/ChanchoVa/src/Simulador/ChanchoVa.cpp
+END
+OptionsParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tpconcurrentes-chanchova/!svn/ver/40/trunk/ChanchoVa/src/Simulador/OptionsParser.h
+END
+Juego.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tpconcurrentes-chanchova/!svn/ver/42/trunk/ChanchoVa/src/Simulador/Juego.h
+END
+compilar.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tpconcurrentes-chanchova/!svn/ver/40/trunk/ChanchoVa/src/Simulador/compilar.sh
+END
